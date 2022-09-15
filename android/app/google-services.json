@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564230419772",
+    "project_id": "renaisi-app-demo",
+    "storage_bucket": "renaisi-app-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564230419772:android:faa330b881db7a8b075a39",
+        "android_client_info": {
+          "package_name": "com.example.renaisi_app_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564230419772-7u1ft4qpaqp2k1dvpgo9v26c15g5m69l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABo0whTyUoDz2SSUJg0Z5Ni0w-gQXFmes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564230419772-7u1ft4qpaqp2k1dvpgo9v26c15g5m69l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

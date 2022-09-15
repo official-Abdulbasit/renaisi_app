@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>564230419772-7322bk33bes6ivp77bkcpf8ut4vjn9mt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.564230419772-7322bk33bes6ivp77bkcpf8ut4vjn9mt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_rLsEf_AWRea8LEUCgbf5IaYKDf-dy8s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>564230419772</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.renaisiAppDemo</string>
+	<key>PROJECT_ID</key>
+	<string>renaisi-app-demo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>renaisi-app-demo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:564230419772:ios:2e2dc905364f0abe075a39</string>
+</dict>
+</plist>
